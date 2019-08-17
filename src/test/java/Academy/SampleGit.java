@@ -8,6 +8,11 @@ public class SampleGit {
 		System.out.println("sample git example1");
 		System.out.println("another more example");
 		System.out.println("last example practice");
+		
+		System.out.println("new branch-1");
+		System.out.println("new branch-2");
+		System.out.println("new branch-3");
 	}
+	
 
 }
