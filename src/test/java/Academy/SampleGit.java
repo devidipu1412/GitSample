@@ -12,6 +12,8 @@ public class SampleGit {
 		System.out.println("new branch-1");
 		System.out.println("new branch-2");
 		System.out.println("new branch-3");
+		System.out.println("new branch-4");
+		System.out.println("new branch-5");
 	}
 	
 
